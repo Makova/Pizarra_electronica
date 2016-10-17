@@ -37,13 +37,13 @@ Veamos ahora el resto de las opciones que nos ofrece este software, sobre todo l
 
 Hoja en blanco número 3 de las 5 que hay en este documento. En ella podremos escribir, dibujar, etc...y después guardarlo. Si no está conectado a PDI nos sale este mensaje Barra de herramientas flotante o fija: podemos añadir o quitar elementos arrastrando Número de hojas que hay en el documento Botón para minimizar la barra de herramientas que hay en el documento
 
-<img src="Imagénes/hitachi00.png"</img>
+![](img/hitachi00.png)
 
 Si pulsamos en el botón
 * MENÚ 
 de StarBoard accederemos a menús desplegables con más opciones.
 
-<img src="Imagénes/hitachi01.png"</img>
+![](img/hitachi01.png)
 
 
 ## BARRA DE HERRAMIENTAS Y MENÚS DESPLEGABLES.
@@ -53,11 +53,11 @@ También podemos modificar la barra de herramientas. Al seleccionarla observarem
 pinchando y arrastrando hasta colocarlas en el lugar de la barra que deseemos.
 En el caso de estar trabajando sin que haya conexión con la PDI aparecerá el siguiente mensaje:
 
-<img src="Imagénes/hitachi02.png"</img>
+![](img/hitachi02.png)
 
 También podemos acceder a las opciones desde la barra inferior o lateral
 
-<img src="Imagénes/hitachi03.png"</img>
+![](img/hitachi03.png)
 
 Podemos minimizar la barra flotante.
 
@@ -67,13 +67,13 @@ Podemos minimizar la barra flotante.
 
 Podemos hacerlo de varias formas. Si tenemos el icono de texto en la barra de herramientas directamente lo pulsamos y nos saldrá la barra de herramientas de texto en el inferior de la pantalla y podremos escribir en el interior del cuadro de texto:
 
-<img src="Imagénes/hitachi04.png"</img>
+![](img/hitachi04.png)
 
 En caso contrario lo haremos desde el botón ```Menú – Herramientas – Texto o desde la barra
 de herramientas```. 
 Una vez introducido el texto podremos modificarlo seleccionando el cuadro de texto y después el botón menú. Nos quedaría como en la siguiente imagen de pantalla:
 
-<img src="Imagénes/hitachi05.png"</img>
+![](img/hitachi05.png)
 
 Ahora podríamos cambiar el color del texto, ponerle un marco de color de diferente
 grosor, un relleno, editar de nuevo el texto, etc.
